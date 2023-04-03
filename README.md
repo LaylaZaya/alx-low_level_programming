@@ -1,1 +1,1 @@
-0x02-functions_nested_loops
+0x07-pointers_arrays_strings
