@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P /tmp https://github.com/eyoul/alx-low_level_programming/raw/main/0x18-dynamic_libraries/iwin.so
-export LD_PRELOAD=/tmp/iwin.so
+wget https://github.com/peterchibunna/alx-low_level_programming/raw/master/0x18-dynamic_libraries/101-libfake.so -O /tmp/101-libfake.so
+export LD_PRELOAD=/tmp/101-libfake.so
